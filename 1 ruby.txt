@@ -1,0 +1,5 @@
+saludo = "hola"
+saludo_formal = "buen día"
+
+despedida = "adiós"
+despedida.size()
